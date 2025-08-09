@@ -28,10 +28,4 @@ Mostly working with **Python**, **C++**, and **HTML** — but always down to lea
 
 ---
 
-###  GitHub Contributions Snake
-
-<img src="https://raw.githubusercontent.com/mattn/github-contributions-snake/master/github-contributions-snake.svg" alt="Snake animation" width="600"/>
-
----
-
 *"Sometimes I eat and code with my toes."*  
