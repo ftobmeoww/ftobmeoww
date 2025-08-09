@@ -15,9 +15,8 @@ Mostly working with **Python**, **C++**, and **HTML** — but always down to lea
 
 ---
 
-### hmu
-
-- Discord: [discordapp.com/users/1228808353975894108](http://discordapp.com/users/1228808353975894108)  
+### socials
+- [![Discord](https://discord.c99.nl/widget/theme-4/652969127756955658.png)](https://discord.com/channels/@me/1228808353975894108)
 ---
 
 ### 📊 GitHub Stats (because numbers are cool)
